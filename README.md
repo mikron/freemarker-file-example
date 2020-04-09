@@ -1,0 +1,1 @@
+# freemarker-file-example
